@@ -6,7 +6,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
-export default {
+export default {sadasdsafaa
   name: 'App',
   components: {
     HelloWorld
